@@ -26,7 +26,9 @@ Seoul 02455, Republic of Korea
 You can also join via [Zoom link](https://us06web.zoom.us/j/84849160930?pwd=I1MkjGflEIQAhSTI7z5OHEX9mcxki4.1).
 
 **Schedule**
-We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays, ICLR, and exam periods.
+
+We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays, ICLR, and exam periods. 
+- I will announce more details on the make-up lectures soon.
 
 | Date  | Day | Topic                                             |
 |:------|:---:|:--------------------------------------------------|
@@ -96,6 +98,7 @@ We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays
 - Additional review details will be provided soon
 
 **Submission Instructions**
+
 Blog posts will be submitted through editing the sample blog (See `./posts/2025-04-28-STUDENTID.md`). Adding new type of contents, e.g., interactive figures, is allowed as long as the new contents do not require installing new packages.
 
 1. Blog post content:

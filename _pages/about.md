@@ -87,7 +87,7 @@ We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays
 
 2. Paper reviews:
    - Review at least two recent papers
-   - One must be from the predefined list
+   - One must be from the [predefined list](https://docs.google.com/spreadsheets/d/15PtC9GrSOAWyhSf1C0jQlABeQSmVYy5HLizc0cYMiI4/edit?usp=sharing)
    
 3. Research project:
    - Must be related to course content

@@ -40,24 +40,24 @@ We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays
 | 3/12  | Wed | Graph Neural Networks                             |
 | 3/17  | Mon | Graph Neural Networks                             |
 | 3/19  | Wed | Geometric GNNs                                    |
-| 3/24  | Mon | Geometric GNNs                                    |
+| 3/24  | Mon | No class (Buisness Trip)                          |
 | 3/26  | Wed | Geometric GNNs                                    |
 | 3/31  | Mon | Geometric GNNs                                    |
 | 4/2   | Wed | Geometric GNNs                                    |
-| 4/7   | Mon | Applications                                      |
-| 4/9   | Wed | Applications                                      |
+| 4/7   | Mon | Geometric GNNs                                    |
+| 4/9   | Wed | Geometric GNNs                                    |
 | 4/14  | Mon | No Class (Mid-Term Exam)                          |
 | 4/16  | Wed | No Class (Mid-Term Exam)                          |
-| 4/21  | Mon | Autoregressive Graph Generative Models            |
+| 4/21  | Mon | Preliminary: Diffusion and Flow Matching Models   |
 | 4/23  | Wed | No Class (ICLR)                                   |
 | 4/28  | Mon | No Class (ICLR)                                   |
-| 4/30  | Wed | Autoregressive Graph Generative Models            |
+| 4/30  | Wed | Preliminary: Diffusion and Flow Matching Models   |
 | 5/5   | Mon | No Class (Buddha's Birthday & Children's Day)     |
-| 5/7   | Wed | Preliminary: Diffusion and Flow Matching Models   |
-| 5/12  | Mon | Preliminary: Diffusion and Flow Matching Models   |
+| 5/7   | Wed | Geometric Generative Models                       |
+| 5/12  | Mon | Geometric Generative Models                       |
 | 5/14  | Wed | Geometric Generative Models                       |
 | 5/19  | Mon | Geometric Generative Models                       |
-| 5/21  | Wed | Geometric Generative Models                       |
+| 5/21  | Wed | Applications                                      |
 | 5/26  | Mon | Applications                                      |
 | 5/28  | Wed | Applications                                      |
 | 6/2   | Mon | Applications                                      |
@@ -75,10 +75,11 @@ We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays
 - Your own research project related to the course (must get the instructor's approval beforehand).
 
 **Important Deadlines**
-- May 19: Blog posts submission
-- June 2: Review submission
-- June 9: Final blog revision (incorporating reviews)
-- June 13: Reviewer acknowledgement and score adjustment
+All the deadlines are until 11:59 PM, KST.
+- May 25th: Blog posts submission
+- June 1st: Review submission
+- June 8th: Final blog revision (incorporating reviews)
+- June 12th: Reviewer acknowledgement and score adjustment
 
 **Blog Topics**
 1. Course content summary:
@@ -99,7 +100,7 @@ We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays
 
 **Submission Instructions**
 
-Blog posts will be submitted through editing the sample blog (See `./posts/2025-04-28-STUDENTID.md`). Adding new type of contents, e.g., interactive figures, is allowed as long as the new contents do not require installing new packages.
+Blog posts (and the abstracts) will be submitted through editing the sample blog (See `./posts/2025-04-28-STUDENTID.md`). Adding new type of contents, e.g., interactive figures, is allowed as long as the new contents do not require installing new packages.
 
 1. Blog post content:
    - File: `./_posts/2025-04-28-STUDENTID.md`

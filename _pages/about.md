@@ -58,7 +58,7 @@ We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays
 | 5/14  | Wed | Geometric Generative Models                       |
 | 5/19  | Mon | Geometric Generative Models                       |
 | 5/21  | Wed | Applications                                      |
-| 5/26  | Mon | Applications                                      |
+| 5/26  | Mon | Invited Lecture (Jinwoo Kim)                      |
 | 5/28  | Wed | Applications                                      |
 | 6/2   | Mon | Applications                                      |
 | 6/4   | Wed | Applications                                      |

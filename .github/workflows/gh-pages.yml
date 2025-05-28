@@ -12,11 +12,23 @@ jobs:
     - name: 체크아웃 코드
       uses: actions/checkout@v4
 
+    # ────────────────────────────────────────────────────────────────────────────
+    # 1) 시스템 패키지 설치: ImageMagick (convert) 및 python/pip 확보
+    - name: Install system deps & Python
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick python3 python3-pip
+
+    # 2) Jupyter 설치 (jupyter 커맨드 제공)
+    - name: Install Jupyter for notebook conversion
+      run: pip3 install jupyter nbconvert
+
+    # ────────────────────────────────────────────────────────────────────────────
     - name: Ruby 세팅
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1'       # Gemfile에 맞춰 조정
-        bundler-cache: true       # bundle install 캐싱
+        ruby-version: '3.1'
+        bundler-cache: true
 
     - name: 의존성 설치
       run: bundle install
@@ -28,6 +40,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: gh-pages   # 원하는 배포 브랜치
+        publish_branch: gh-pages
         publish_dir: ./_site
-

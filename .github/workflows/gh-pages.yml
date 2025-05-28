@@ -1,0 +1,33 @@
+name: Build and Deploy Jekyll site
+
+on:
+  push:
+    branches: [ main ]  # 당신의 블로그 소스가 있는 브랜치
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 체크아웃 코드
+      uses: actions/checkout@v4
+
+    - name: Ruby 세팅
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'       # Gemfile에 맞춰 조정
+        bundler-cache: true       # bundle install 캐싱
+
+    - name: 의존성 설치
+      run: bundle install
+
+    - name: Jekyll 사이트 빌드
+      run: bundle exec jekyll build
+
+    - name: _site 디렉토리 배포
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages   # 원하는 배포 브랜치
+        publish_dir: ./_site
+

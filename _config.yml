@@ -142,10 +142,6 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-markdown: kramdown
-kramdown:
-  toc_levels: 1..6 
-  
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -191,7 +187,6 @@ keep_files:
 
 # Plug-ins
 plugins:
-
   - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
@@ -206,7 +201,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
-  #- jekyll-toc
+  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 

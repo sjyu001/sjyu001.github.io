@@ -10,108 +10,17 @@ pretty_table: true
 
 # AI.899: Geometric Deep Learning
 
-This is a course offered by Sungsoo Ahn @ KAIST, graduate school of AI.
+This is a paper review blog post page for AI.899.
+
+Student : Seungjun Yu (20255250)
 
 ---
-
-### Course Information 
-
-**Location**  
-Room 9509  
-5th Floor, Building 9  
-Kim Jaechul Graduate School of AI, KAIST  
-85 Hoegi-ro, Dongdaemun-gu  
-Seoul 02455, Republic of Korea
-
-You can also join via [Zoom link](https://us06web.zoom.us/j/84849160930?pwd=I1MkjGflEIQAhSTI7z5OHEX9mcxki4.1).
-
-**Schedule**
-
-We have the lecture at every Monday/Wednseday 10:30-12:00pm, except for holidays, ICLR, and exam periods. 
-- I will announce more details on the make-up lectures soon.
-
-| Date  | Day | Topic                                             |
-|:------|:---:|:--------------------------------------------------|
-| 2/24  | Mon | Course Introduction                               |
-| 2/26  | Wed | Preliminary: Equivariance and Group Theory        |
-| 3/3   | Mon | No Class (Independence Day)                       |
-| 3/5   | Wed | Graph Neural Networks                             |
-| 3/10  | Mon | Graph Neural Networks                             |
-| 3/12  | Wed | Graph Neural Networks                             |
-| 3/17  | Mon | Graph Neural Networks                             |
-| 3/19  | Wed | Geometric GNNs                                    |
-| 3/24  | Mon | No class (Buisness Trip)                          |
-| 3/26  | Wed | Geometric GNNs                                    |
-| 3/31  | Mon | Geometric GNNs                                    |
-| 4/2   | Wed | Geometric GNNs                                    |
-| 4/7   | Mon | Geometric GNNs                                    |
-| 4/9   | Wed | Geometric GNNs                                    |
-| 4/14  | Mon | No Class (Mid-Term Exam)                          |
-| 4/16  | Wed | No Class (Mid-Term Exam)                          |
-| 4/21  | Mon | Preliminary: Diffusion and Flow Matching Models   |
-| 4/23  | Wed | No Class (ICLR)                                   |
-| 4/28  | Mon | No Class (ICLR)                                   |
-| 4/30  | Wed | Preliminary: Diffusion and Flow Matching Models   |
-| 5/5   | Mon | No Class (Buddha's Birthday & Children's Day)     |
-| 5/7   | Wed | Geometric Generative Models                       |
-| 5/12  | Mon | Geometric Generative Models                       |
-| 5/14  | Wed | Geometric Generative Models                       |
-| 5/19  | Mon | Geometric Generative Models                       |
-| 5/21  | Wed | Applications                                      |
-| 5/26  | Mon | Invited Lecture (Jinwoo Kim)                      |
-| 5/28  | Wed | Applications                                      |
-| 6/2   | Mon | Applications                                      |
-| 6/4   | Wed | Applications                                      |
-| 6/9   | Mon | No Class (Final Exam)                             |
-| 6/11  | Wed | No Class (Final Exam)                             |
-
----
+  
 
 ### Blog Post
 
-**Topics**
-- Summarizing and augmenting the course, about the lectures on "geometric GNNs" or "geometric generative models".
-- Reviewing two or more of the recent papers related to the course, must include one of the papers in the predefined list.
-- Your own research project related to the course (must get the instructor's approval beforehand).
+**First Paper**
+- gRNAde: Geometric Deep Learning for 3D RNA inverse design (ICRL 2025)
 
-**Important Deadlines**
-All the deadlines are until 11:59 PM, KST.
-- May 25th: Blog posts submission
-- June 1st: Review submission
-- June 8th: Final blog revision (incorporating reviews)
-- June 12th: Reviewer acknowledgement and score adjustment
-
-**Blog Topics**
-1. Course content summary:
-   - Focus on "geometric GNNs" or "geometric generative models"
-   - Include your own insights and additional research
-
-2. Paper reviews:
-   - Review at least two recent papers
-   - One must be from the [predefined list](https://docs.google.com/spreadsheets/d/15PtC9GrSOAWyhSf1C0jQlABeQSmVYy5HLizc0cYMiI4/edit?usp=sharing)
-   
-3. Research project:
-   - Must be related to course content
-   - Requires instructor's prior approval
-
-**Peer Review**
-- Each student will review 5 blog posts
-- Additional review details will be provided soon
-
-**Submission Instructions**
-
-Blog posts (and the abstracts) will be submitted through editing the sample blog (See `./posts/2025-04-28-STUDENTID.md`). Adding new type of contents, e.g., interactive figures, is allowed as long as the new contents do not require installing new packages.
-
-1. Blog post content:
-   - File: `./_posts/2025-04-28-STUDENTID.md`
-   - Example: `./_posts/2025-04-28-20231234.md`
-
-2. Bibliography
-   - File: `./assets/bibliography/2025-04-28-STUDENTID.bib`
-   - Example: `./assets/bibliography/2025-04-28-20231234.bib`
-
-3. Blog assets (images, etc.):
-   - Directory: `./assets/ASSET_TYPE/2025-04-28-STUDENTID/`
-   - Example 1: `./assets/img/2025-04-28-20231234/figure1.png`
-   - Example 2: `./assets/video/2025-04-28-20231234/video1.mp4`
-
+**Second Paper**
+- Protcomposer: Compositional protein structure generation with 3d ellipsoids. (ICRL 2025)

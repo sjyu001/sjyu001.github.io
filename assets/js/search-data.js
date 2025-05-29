@@ -30,9 +30,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-ai810-blog-post-20255250-protcomposer-compositional-protein-structure-generation-with-3d-ellipsoids",
+            },{id: "post-ai810-blog-post-20251234-protcomposer-compositional-protein-structure-generation-with-3d-ellipsoids",
       
-        title: "AI810 Blog Post (20255250) [ProtComposer - Compositional Protein Structure Generation with 3D Ellipsoids]...",
+        title: "AI810 Blog Post (20251234) [ProtComposer - Compositional Protein Structure Generation with 3D Ellipsoids]...",
       
       description: "Hannes Stark, Bowen Jing, Tomas Geffner, Jason Yim, Tommi Jaakkola, Arash Vahdat &amp; Karsten Kreis",
       section: "Posts",
@@ -41,9 +41,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/PAPER2/";
         
       },
-    },{id: "post-ai810-blog-post-20255250-grnade-geometric-deep-learning-for-3d-rna-inverse-design",
+    },{id: "post-ai810-blog-post-20251234-grnade-geometric-deep-learning-for-3d-rna-inverse-design",
       
-        title: "AI810 Blog Post (20255250) [gRNAde - Geometric Deep Learning for 3D RNA Inverse...",
+        title: "AI810 Blog Post (20251234) [gRNAde - Geometric Deep Learning for 3D RNA Inverse...",
       
       description: "Chaitanya K. Joshi, Arian R. Jamasb, Ramon Viñas, Charles Harris, Simon V. Mathis, Alex Morehead, Rishabh Anand, Pietro Liò (ICLR 2025)",
       section: "Posts",

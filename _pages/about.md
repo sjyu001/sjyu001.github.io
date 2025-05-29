@@ -8,9 +8,9 @@ nav_order: 1
 pretty_table: true
 ---
 
-# AI.899: Geometric Deep Learning
+# AI.810: Geometric Deep Learning
 
-This is a paper review blog post page for AI.899.
+This is a paper review blog post page for AI.810.
 
 Student : Seungjun Yu (20255250)
 
